@@ -1,0 +1,8 @@
+data1_cloud:
+  - "/home/junhakim/vel_to_pcd/planes/data1_ROI.pcd"
+  - "/home/junhakim/vel_to_pcd/planes/data1_plane.pcd"
+data2_cloud:
+  - "/home/junhakim/vel_to_pcd/planes/data2_ROI.pcd"
+  - "/home/junhakim/vel_to_pcd/planes/data2_plane.pcd"
+cfg_fold:
+  - "/home/junhakim/vel_to_pcd"  
