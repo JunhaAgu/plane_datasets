@@ -1,0 +1,23 @@
+cfg_fold:
+  - "vel_to_pcd/fourty/"
+cloud:
+  - "vel_to_pcd/fourty/data_ROI.pcd"
+coef_plane:
+  - [0.472643, -0.881214, -0.0084307, -3.18047]
+  - [0.881123, 0.472883, 0.00191882, -5.55271]
+  - [-0.00582417, -0.00837309, 0.999948, 0.802739]
+normal_plane:
+  - [-0.472643, 0.881214, 0.0084307] 
+  - [-0.881123, -0.472883, -0.00191882] 
+  - [-0.00582417, -0.00837309, 0.999948] 
+planes:
+  - "vel_to_pcd/fourty/plane/data_plane_1.pcd"
+  - "vel_to_pcd/fourty/plane/data_plane_2.pcd"
+  - "vel_to_pcd/fourty/plane/data_plane_3.pcd"
+origin:
+  - [6.3956, -0.171553, -0.766967]
+tf_gt:
+ - [1, 0, 0, 0]
+ - [0, 1, 0, 0]
+ - [0, 0, 1, 0]
+ - [0, 0, 0, 1]

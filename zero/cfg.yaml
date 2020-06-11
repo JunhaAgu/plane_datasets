@@ -1,0 +1,8 @@
+ref_cloud:
+  - "vel_to_pcd/zero/ref.pcd"
+  - "vel_to_pcd/zero/ref_ROI.pcd"
+data_cloud:
+  - "vel_to_pcd/zero/data.pcd"
+  - "vel_to_pcd/zero/data_ROI.pcd"
+cfg_fold:
+  - "vel_to_pcd/zero/"
