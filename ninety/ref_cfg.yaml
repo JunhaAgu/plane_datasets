@@ -1,0 +1,23 @@
+cfg_fold:
+  - "vel_to_pcd/ninety/"
+cloud:
+  - "vel_to_pcd/ninety/ref_ROI.pcd"
+coef_plane:
+  - [0.394344, -0.91896, 0.00214792, -3.19697]
+  - [0.918644, 0.395023, 0.0070847, -5.72279]
+  - [-0.0140546, -0.00127162, 0.9999, 0.827096]
+normal_plane:
+  - [-0.394344, 0.91896, -0.00214792] 
+  - [-0.918644, -0.395023, -0.0070847] 
+  - [-0.0140546, -0.00127162, 0.9999] 
+planes:
+  - "vel_to_pcd/ninety/plane/ref_plane_1.pcd"
+  - "vel_to_pcd/ninety/plane/ref_plane_2.pcd"
+  - "vel_to_pcd/ninety/plane/ref_plane_3.pcd"
+origin:
+  - [6.52749, -0.679547, -0.736293]
+tf_gt:
+ - [1, 0, 0, 0]
+ - [0, 1, 0, 0]
+ - [0, 0, 1, 0]
+ - [0, 0, 0, 1]
